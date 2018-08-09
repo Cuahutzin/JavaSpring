@@ -1,1 +1,1 @@
-Java project to learn sprint with hibernate and rest services
+Simple Java project to learn spring with hibernate and rest services
